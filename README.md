@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandima2000" alt="chandima2000" /></a> </p>
 
-- 🌱 I’m currently learning **React, NextJs, Spring, Machine Learning, NLP, Artificial Intelligence**
+- 🌱 I’m currently learning **NextJs, Spring, Machine Learning, NLP, Artificial Intelligence**
 
 - 📫 How to reach me **hychandima727@gmail.com**
 
