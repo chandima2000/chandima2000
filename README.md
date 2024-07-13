@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 🌱 I’m currently learning **python, NextJs, Spring-boot, Machine Learning & AI**
+- 🌱 I’m currently learning **SpringBoot, Blockchain, Machine Learning & AI**
 
 - 📫 How to reach me **hychandima727@gmail.com**
 
